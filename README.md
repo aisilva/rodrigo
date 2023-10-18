@@ -1,5 +1,6 @@
 # rodrigo
-Sheet music video to pdf
+Sheet music video to pdf. I used this when I wanted the sheet music for Rodrigo's Concierto de Aranjuez, but I never used it. These scripts can be used for any sheet music video.
+
 This code only does part of the process as of now: 1-attempt.py takes a video and separates the unique frames into a directory, and manual.py is a second check to filter out frames which are practically identical but technically not duplicates (this is done by hand).
 
 Not added to the repo are the folders holding the resulting jpgs like the one below:
